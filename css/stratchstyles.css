@@ -1,0 +1,58 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-image: url(/assets/img/backscratch.jpeg);
+    color: darkblue;
+}
+h1 {
+   text-decoration: underline;
+   font-size: 50px;
+   
+}
+li {
+    font-weight: normal;
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+nav {
+    font-weight: normal;
+}
+.common {
+    border: 2px solid darkblue;
+    padding: 10px;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+.subheader {
+    float: right;
+}
+.leftmenu
+{
+    top: 127px;
+    left: 5px;
+    width: 200px;
+    bottom: 39px;
+}
+.rightmenu
+{
+    top: 300px;
+    right: 5px;
+    width: 200px;
+    bottom: 39px;
+    
+}
+
+.mainbody
+{
+    top: 127px;
+    left: 200px;
+    right: 127px;
+    bottom:  39px;
+    padding: 20px;
+}
